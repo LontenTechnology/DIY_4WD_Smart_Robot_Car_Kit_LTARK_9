@@ -3,7 +3,7 @@
 If you are interested in source code and have the ability to develop it, you can refer to this URL:  
 
 https://github.com/LontenTechnology/DIY_4WD_Smart_Robot_Car_Kit_LTARK_9
-
+<img src='DSC_0091.JPG' width='100%'/>
 
 ### Download
 
